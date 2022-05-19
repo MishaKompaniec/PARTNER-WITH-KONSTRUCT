@@ -358,7 +358,7 @@ body {
 .feedback-phone {
 	width: 100%;
 	height: 500px;
-	background: url(./assets/bg-feedback.svg) no-repeat;
+	background: url(./assets/bg-feedback.svg) center center no-repeat;
 	background-color: #171819;
 	background-size: cover;
 }
