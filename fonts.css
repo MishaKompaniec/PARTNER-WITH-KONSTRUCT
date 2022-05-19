@@ -1,0 +1,13 @@
+@font-face {
+	font-family: "BebasNeueBold" ;
+	src: url(fonts/BebasNeueBold.ttf);
+	font-style: normal; 
+	font-weight: normal;
+}
+
+@font-face {
+	font-family: "OpenSans", sans-serif ;
+	src: url(fonts/OpenSans.ttf);
+	font-style: normal; 
+	font-weight: normal;
+}
