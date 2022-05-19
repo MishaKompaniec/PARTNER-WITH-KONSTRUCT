@@ -29,7 +29,7 @@ body {
 	flex-direction: column;
 	justify-content: space-between;
 	align-items: center;
-	background: #171819 url(/assets/bg.svg) no-repeat center;
+	background: #171819 url(./assets/bg.svg) no-repeat center;
 	background-size: cover;
 }
 
@@ -217,21 +217,21 @@ body {
 	width: 140px;
 	height: 224px;
 	margin: 0 0 10px 10px;
-	background: url(/assets/img-story1.svg) no-repeat;
+	background: url(./assets/img-story1.svg) no-repeat;
 }
 
 .about-us__manage {
 	width: 140px;
 	height: 224px;
 	margin-bottom: 10px;
-	background: url(/assets/img-story2.svg) no-repeat;
+	background: url(./assets/img-story2.svg) no-repeat;
 }
 
 .about-us__build {
 	width: 140px;
 	height: 224px;
 	margin: 0 10px 10px 0;
-	background: url(/assets/img-story3.svg) no-repeat;
+	background: url(./assets/img-story3.svg) no-repeat;
 }
 
 .about-us__image-title {
@@ -314,7 +314,7 @@ body {
 	width: 70.59px;
 	height: 75px;
 	margin-bottom: 25px;
-	background-image: url(/assets/img-list-services1.svg);
+	background-image: url(./assets/img-list-services1.svg);
 	background-repeat: no-repeat;
 }
 
@@ -322,7 +322,7 @@ body {
 	width: 70.59px;
 	height: 75px;
 	margin-bottom: 25px;
-	background-image: url(/assets/img-list-services2.svg);
+	background-image: url(./assets/img-list-services2.svg);
 	background-repeat: no-repeat;
 }
 
@@ -330,7 +330,7 @@ body {
 	width: 70.59px;
 	height: 75px;
 	margin-bottom: 25px;
-	background-image: url(/assets/img-list-services3.svg);
+	background-image: url(./assets/img-list-services3.svg);
 	background-repeat: no-repeat;
 }
 
@@ -358,7 +358,7 @@ body {
 .feedback-phone {
 	width: 100%;
 	height: 500px;
-	background: url(/assets/bg-feedback.svg) no-repeat;
+	background: url(./assets/bg-feedback.svg) no-repeat;
 	background-color: #171819;
 	background-size: cover;
 }
